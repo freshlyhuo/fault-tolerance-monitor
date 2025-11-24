@@ -1,0 +1,1 @@
+/* 统一派发 ECSM 指标到 StateManager。 */
