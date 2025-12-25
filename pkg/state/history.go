@@ -1,4 +1,4 @@
-/* 环形缓冲区（ring buffer）
+/* 环形缓冲区（ring buffer），用storage还需要缓冲区吗？
 
 滑动平均
 
